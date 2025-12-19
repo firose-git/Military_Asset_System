@@ -1,0 +1,8 @@
+# Backend "requirements" - run these commands to set up
+npm install
+npm install express mongoose dotenv bcryptjs jsonwebtoken cors
+npm install --save-dev nodemon
+
+# Start the server with:
+# npm run dev   (for development)
+# npm start     (for production)

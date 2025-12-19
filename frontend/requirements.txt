@@ -1,0 +1,7 @@
+# Frontend "requirements" - run these commands
+npm install
+# If using Create React App, ensure react-scripts is available: npm install react-scripts
+npm install axios react react-dom react-router-dom
+
+# Start with:
+# npm start

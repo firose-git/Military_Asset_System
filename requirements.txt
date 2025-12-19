@@ -1,0 +1,13 @@
+# Requirements and notes
+
+- Node.js >= 14
+- npm (comes with Node.js)
+- MongoDB running locally or a MongoDB URI
+
+To set up backend:
+cd backend; npm install; npm run dev
+
+To set up frontend (Create React App or similar required):
+cd frontend; npm install; npm start
+
+(These files include `backend/requirements.txt` and `frontend/requirements.txt` with helper commands.)

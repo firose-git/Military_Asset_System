@@ -42,14 +42,7 @@ Closing balance
 
 Net movement (Purchases + Transfers In − Transfers Out)
 
-# Logo
-<p align="center">
-  <img src="assets/logo.png" alt="Project Logo" width="200">
-</p>
 
-
-<h1 align="center">Military Asset Management System</h1>
-<p align="center">Secure • Auditable • Scalable</p>
 
 
 
@@ -131,5 +124,14 @@ Notification system for asset movement
 Advanced role permissions
 
 Deployment using cloud services
+
+# Logo
+<p align="center">
+  <img src="assets/logo.png" alt="Project Logo" width="200">
+</p>
+
+
+<h1 align="center">Military Asset Management System</h1>
+<p align="center">Secure • Auditable • Scalable</p>
 
 📌 This project is intended for learning and demonstration purposes, showcasing abstraction, clean architecture, and real-world asset management concepts.

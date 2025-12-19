@@ -43,7 +43,13 @@ Closing balance
 Net movement (Purchases + Transfers In − Transfers Out)
 
 # Logo
-![Uploading image.png…]()
+<p align="center">
+  <img src="https://raw.githubusercontent.com/firose-git/Military_Asset_System/main/Frontend/public/asset/logo.png" width="180">
+</p>
+
+<h1 align="center">Military Asset Management System</h1>
+<p align="center">Secure • Auditable • Scalable</p>
+
 
 
 

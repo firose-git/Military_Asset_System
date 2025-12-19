@@ -43,9 +43,9 @@ Closing balance
 Net movement (Purchases + Transfers In − Transfers Out)
 
 # Logo
-<p align="center">
-  <img src="assets/logo.png" alt="Project Logo" width="200">
-</p>
+![Uploading image.png…]()
+
+
 
 
 🔐 Role-based access (Admin & Base Staff)

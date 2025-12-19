@@ -44,7 +44,7 @@ Net movement (Purchases + Transfers In − Transfers Out)
 
 # Logo
 <p align="center">
-  <img src="./Frontend/src/public/assets/logo.png" alt="Project Logo" width="200">
+  <img src="assets/logo.png" alt="Project Logo" width="200">
 </p>
 
 
